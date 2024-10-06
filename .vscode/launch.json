@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kaykaykay/Documents/code/ctest2/tictactoe",
+      "program": "/Users/kaykaykay/Documents/code/ctest2/tictactoe/build/Debug/outDebug"
+    }
+  ],
+  "externalConsole": true
+}
